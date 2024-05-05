@@ -53,7 +53,7 @@ SELECT job_title_short,
     job_location
 FROM january_jobs
 UNION ALL
---Get jobs and comapnies from february
+--Get jobs and companies from february
 SELECT job_title_short,
     company_id,
     job_location

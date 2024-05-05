@@ -110,6 +110,9 @@ FROM skills_job_dim AS skills_to_job
 WHERE job_postings.job_work_from_home = True
 GROUP BY skill_id
     /*CTE */
+    /*
+     Problem 7
+     */
     WITH remote_job_skills as (
         SELECT skill_id,
             COUNT(*) AS skill_count --job_postings.job_work_from_home 
