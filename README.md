@@ -156,14 +156,16 @@ LIMIT 25
 
 Here´s the breakdown of the most optimal skills for Data Analysts in 2023:
 
-- **High Demand Programming Languages:** Python and R stand out for their high demand, with demand counts of 236 and 148 respectivaly. Despite their high demand, their average salaries are around $101,397 for Pythin and $100,499 fro R, indicating that proficiency in these languages is highly valued but also widely available.
+- **High Demand Programming Languages:** Python and R stand out for their high demand, with demand counts of 236 and 148 respectivaly. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
 - **Cloud Tools and Technologies:** Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data alalysis.
 - **Business Intelligence and Visualization Tools:** Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,975, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
 - **Database technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries from $97,786 to $104,534 reflects the enduring need for data storage, retrieve and management expertise.
 
 # What I learned
 
--**Complex Query Crafting:** Mastered tge art of advanced SQL, merging tables and wielding WITH clauses. -**Data aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into data summarising. -**Analytical Wizardry:** Leveled up my real world puzzle-solving skills, turning question into actionable, insightful SQL queries.
+- **Complex Query Crafting:** Mastered tge art of advanced SQL, merging tables and wielding WITH clauses.
+- **Data aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into data summarising.
+- **Analytical Wizardry:** Leveled up my real world puzzle-solving skills, turning question into actionable, insightful SQL queries.
 
 # Conclusions
 
